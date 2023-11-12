@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,ad.com
+  - GEOSITE,category-ads-all
+  - DOMAIN,firebaselogging-pa.googleapis.com

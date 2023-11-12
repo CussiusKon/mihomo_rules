@@ -1,0 +1,20 @@
+payload:
+  - DOMAIN-SUFFIX,wjjsw.work
+  - DOMAIN-SUFFIX,itblog.eu.org
+  - DOMAIN-SUFFIX,ilearn.eu.org
+  - DOMAIN-SUFFIX,itcn.eu.org
+  - DOMAIN-SUFFIX,avast.com
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,coalcloud.net
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,clash.razord.top
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-SUFFIX,cloudfront.net
+  - GEOSITE,private
+  - GEOSITE,steam@cn
+  # - GEOIP,private
+  - GEOSITE,CN
+  # - GEOSITE,steam@cn
+  # - IP-CIDR,67.216.219.99/32
+  # - IP-CIDR,52.221.25.212/32
+  # - IP-CIDR,144.24.85.208/32

@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,pki.goog
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,nivod
+  - DOMAIN-KEYWORD,mudvod
+  - DOMAIN-SUFFIX,newpppp.com
+  - DOMAIN-SUFFIX,biggggg.com
+  - DOMAIN-SUFFIX,flurry.com
+  - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN,relay.firefox.com
+  - GEOSITE,mudvod
+  # - GEOSITE,steam
+  - GEOSITE,google
+  # - GEOSITE,geolocation-!cn
+  # - GEOSITE,mudvod
+  # # - GEOSITE,steam
+  # - GEOSITE,google
