@@ -34,6 +34,7 @@ payload:
   - DOMAIN,tutorialedge.net
   - GEOSITE,mudvod
   - GEOSITE,openai
+  - GEOSITE,category-entertainment
   # - GEOSITE,steam
   - GEOSITE,google
   # - GEOSITE,geolocation-!cn
