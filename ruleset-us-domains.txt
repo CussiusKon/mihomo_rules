@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,italkbbtv.com
+  - DOMAIN-SUFFIX,appsflyer.com
