@@ -6,5 +6,6 @@ payload:
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,play.google.com
+  - DOMAIN,api.statsig.com
   - GEOSITE,spotify
   - GEOSITE,openai
