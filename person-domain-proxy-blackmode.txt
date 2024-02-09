@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,gradle.org
   - DOMAIN-SUFFIX,newpppp.com
   - DOMAIN-SUFFIX,biggggg.com
+  - DOMAIN-SUFFIX,olddddd.com
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN,api.fhjasokiwq.com
   - DOMAIN-SUFFIX,appcenter.ms
