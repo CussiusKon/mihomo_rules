@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,eu.org
+  - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,f-droid.org
