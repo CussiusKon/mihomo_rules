@@ -20,9 +20,9 @@ payload:
   - GEOSITE,aws-cn
   - GEOSITE,steam@cn
   - GEOSITE,microsoft@cn
-  # # - GEOIP,private
+  # - GEOIP,private
   # - GEOSITE,CN
-  # # - GEOSITE,steam@cn
-  # # - IP-CIDR,67.216.219.99/32
-  # # - IP-CIDR,52.221.25.212/32
-  # # - IP-CIDR,144.24.85.208/32
+  # - GEOSITE,steam@cn
+  # - IP-CIDR,67.216.219.99/32
+  # - IP-CIDR,52.221.25.212/32
+  # - IP-CIDR,144.24.85.208/32
