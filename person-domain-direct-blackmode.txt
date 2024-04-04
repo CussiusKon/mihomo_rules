@@ -1,4 +1,4 @@
-payload
+payload:
   - DOMAIN-SUFFIX,wjjsw.work
   - DOMAIN-SUFFIX,wjjsw.work
   # - DOMAIN-SUFFIX,eu.org
