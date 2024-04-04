@@ -1,47 +1,38 @@
 payload:
-  - DOMAIN-SUFFIX,eu.org
-  - DOMAIN-SUFFIX,mozilla.org
-  - DOMAIN-SUFFIX,deepl.com
-  - DOMAIN-SUFFIX,javdb.com
-  - DOMAIN-SUFFIX,f-droid.org
-  - DOMAIN-SUFFIX,pki.goog
-  - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,nivod
-  - DOMAIN-KEYWORD,mudvod
-  - DOMAIN-KEYWORD,italkbbtv
-  - DOMAIN-KEYWORD,airbnb
-  - DOMAIN-SUFFIX,gradle.org
-  - DOMAIN-SUFFIX,newpppp.com
-  - DOMAIN-SUFFIX,biggggg.com
-  - DOMAIN-SUFFIX,olddddd.com
-  - DOMAIN-SUFFIX,flurry.com
-  - DOMAIN,api.fhjasokiwq.com
-  - DOMAIN-SUFFIX,appcenter.ms
-  - DOMAIN-SUFFIX,xiuluohost.com
-  - DOMAIN-SUFFIX,akkocloud.com
-  - DOMAIN-SUFFIX,vmshell.com
-  - DOMAIN-SUFFIX,nekoneko.cloud
-  - DOMAIN-SUFFIX,idc.wiki
-  - DOMAIN-SUFFIX,avast.com
-  - DOMAIN-SUFFIX,avcdn.net
-  - DOMAIN-SUFFIX,norton.com
-  - DOMAIN-SUFFIX,digitalriverws.com
-  - DOMAIN-SUFFIX,haiwaikan.com
-  - DOMAIN-SUFFIX,v82u1l.com
-  - DOMAIN-SUFFIX,iz8qkg.com
-  - DOMAIN-SUFFIX,kin6c1.com
-  - DOMAIN-SUFFIX,v82u1l.com
-  - DOMAIN-SUFFIX,lysator.liu.se
-  - DOMAIN,apt.izzysoft.de
-  - DOMAIN,relay.firefox.com
-  - DOMAIN,bulianglin.com
-  - DOMAIN,anyland01.com
-  - DOMAIN,air.awzr.shop
-  - DOMAIN,tutorialedge.net
-  - GEOSITE,mudvod
-  - GEOSITE,openai
-  - GEOSITE,category-entertainment
-  # - GEOSITE,steam
-  - GEOSITE,google
-  # - GEOSITE,geolocation-!cn
-  - GEOSITE,gfw
+  - DOMAIN-SUFFIX,wjjsw.work
+  - DOMAIN-SUFFIX,wjjsw.work
+  # - DOMAIN-SUFFIX,eu.org
+  # - DOMAIN-SUFFIX,avast.com
+  - DOMAIN,lovelive-anime.jp
+  - DOMAIN,lovelive-anime.jp
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,coalcloud.net
+  - DOMAIN-SUFFIX,coalcloud.net
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,cloudfront.net
+  # - DOMAIN,itcn.eu.org
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,clash.razord.top
+  - DOMAIN,clash.razord.top
+  - DOMAIN,cdnjs.cloudflare.com
+  - DOMAIN,cdnjs.cloudflare.com
+  - GEOSITE,cloudflare-cn
+  - GEOSITE,cloudflare-cn
+  - GEOSITE,aws-cn
+  - GEOSITE,aws-cn
+  - GEOSITE,steam@cn
+  - GEOSITE,steam@cn
+  - GEOSITE,microsoft@cn
+  - GEOSITE,microsoft@cn
+  # - GEOIP,private
+  # - GEOSITE,CN
+  # - GEOSITE,steam@cn
+  # - IP-CIDR,67.216.219.99/32
+  # - IP-CIDR,52.221.25.212/32
+  # - IP-CIDR,144.24.85.208/32
