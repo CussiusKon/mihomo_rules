@@ -1,14 +1,11 @@
 payload:
   - DOMAIN-SUFFIX,wjjsw.work
-  # - DOMAIN-SUFFIX,eu.org
-  # - DOMAIN-SUFFIX,avast.com
   - DOMAIN,lovelive-anime.jp
   - DOMAIN-SUFFIX,gitv.tv
   - DOMAIN-SUFFIX,coalcloud.net
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,cloudfront.net
-  # - DOMAIN,itcn.eu.org
   - DOMAIN,yacd.haishan.me
   - DOMAIN,clash.razord.top
   - DOMAIN,cdnjs.cloudflare.com
@@ -20,9 +17,3 @@ payload:
   - GEOSITE,aws-cn
   - GEOSITE,steam@cn
   - GEOSITE,microsoft@cn
-  # - GEOIP,private
-  # - GEOSITE,CN
-  # - GEOSITE,steam@cn
-  # - IP-CIDR,67.216.219.99/32
-  # - IP-CIDR,52.221.25.212/32
-  # - IP-CIDR,144.24.85.208/32
