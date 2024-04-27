@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,olddddd.com
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN,api.fhjasokiwq.com
+  - DOMAIN,tumblr.171gifs.com
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,xiuluohost.com
   - DOMAIN-SUFFIX,akkocloud.com
