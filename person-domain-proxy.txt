@@ -14,6 +14,8 @@ payload:
   - DOMAIN-KEYWORD,airbnb
   - DOMAIN-SUFFIX,gradle.org
   - DOMAIN-SUFFIX,heimuer.tv
+  - DOMAIN-SUFFIX,heimuer.app
+  - DOMAIN-SUFFIX,cdn.bspapp.com
   - DOMAIN-SUFFIX,newpppp.com
   - DOMAIN-SUFFIX,biggggg.com
   - DOMAIN-SUFFIX,olddddd.com
