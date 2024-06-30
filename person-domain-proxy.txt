@@ -46,6 +46,7 @@ payload:
   - GEOSITE,openai
   - GEOSITE,category-entertainment
   # - GEOSITE,steam
+  - GEOSITE,bing
   - GEOSITE,google
   # - GEOSITE,geolocation-!cn
   # - GEOSITE,gfw
