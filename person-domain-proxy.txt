@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,italkbbtv
   - DOMAIN-KEYWORD,airbnb
   - DOMAIN-SUFFIX,gradle.org
+  - DOMAIN-SUFFIX,iole.app
   - DOMAIN-SUFFIX,heimuer.tv
   - DOMAIN-SUFFIX,heimuer.app
   - DOMAIN-SUFFIX,cdn.bspapp.com
