@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,eu.org
+  - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,divestos.org
   - DOMAIN-SUFFIX,ping.pe
   - DOMAIN-SUFFIX,mozilla.org
